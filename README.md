@@ -4,7 +4,7 @@
 **`Desenvolvedor Front-End`**
 
 <p align="left">
-    <a href="">
+    <a href="https://github.com/devfpedro/devfpedro/blob/main/www.linkedin.com/in/pedro-henriquedevf">
         <img 
             alt="Linkedin" 
             title="Perfil Linkedin" 
