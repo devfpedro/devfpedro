@@ -57,4 +57,4 @@
     src="https://github-readme-stats.vercel.app/api?username=devfpedro&show_icons=true&theme=dark&locale=pt-br"
 />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devfpedro&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devfpedro&layout=compact&theme=dark)
