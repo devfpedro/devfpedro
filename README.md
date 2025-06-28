@@ -21,7 +21,7 @@
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pedro.henriquedevf@gmail.com">
         <img
             alt="Gmail"
-            tltle="E-mail para Contato"
+            title="E-mail"
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
