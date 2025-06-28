@@ -18,7 +18,7 @@
             src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
         />
     </a>
-    <a href="[mailto:pedro.henriquedevf@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=seuemail@gmail.com)">
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=seuemail@gmail.com">
         <img
             alt="Gmail"
             tltle="E-mail para Contato"
