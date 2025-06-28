@@ -11,8 +11,6 @@
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a>     
-    </a>
     <a href="https://www.youtube.com/@PedroinLoop">
         <img
             alt="Youtube"
