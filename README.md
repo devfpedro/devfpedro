@@ -1,7 +1,7 @@
 
 # 🧑🏻‍💻Pedro Henrique
 
-**`Desenvolvedor Back-End`**
+**`Desenvolvedor Back-End` | `Analista de Dados**
 
 <p align="left">
     <a href="https://www.linkedin.com/in/pedro-henriquedevf/">
